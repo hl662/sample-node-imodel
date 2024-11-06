@@ -12,7 +12,6 @@
     "@itwin/core-backend": "^4.9.6"
   },
   "devDependencies": {
-    "@itwin/build-tools": "^4.9.5",
     "@playwright/test": "^1.48.2",
     "ts-node": "^10.4.0",
     "tsx": "^4.19.2",
